@@ -1,0 +1,30 @@
+body{
+   
+    border-style: solid;
+    border-color: green;
+    border-width: 5px;
+}
+
+#redBorder{
+   
+    border-style: solid;
+    border-color: red;
+    border-width: 5px;
+}
+
+#purpleBorder{
+    display: inline-block;
+    border-style: solid;
+    border-color: purple;
+    border-width: 5px;
+
+}
+
+blueBorder{
+    display: inline-block;
+    border-style: solid;
+    border-color: blue;
+    border-width: 5px;
+
+}
+
